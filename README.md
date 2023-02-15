@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @meangolden
-- 👀 I’m interested in maths, logic puzzles, and arts. 
+- 👋 Hi, I’m @meangolden. I'm a mathematician, and an RF and Communications engineeer. Expert in physical layer security ;)
+- 👀 OPEN TO WORK.
 - 🌱 I’m currently experimenting with machine learning in Python.
-- 💞️ OPEN TO WORK. Interested in cyber security and RF software engineering.
+- 💞️ Also interested in logic puzzles, and arts. GIve me a problem to solve!
 - 📫 How to reach me: chrysanti.paschou@gmail.com
 
 <!---
