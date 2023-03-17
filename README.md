@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meangolden. I'm a mathematician, and an RF & Communications engineeer. Expert in physical layer security ;)
 - 🌱 I’m currently experimenting with machine learning in Python.
-- 💞️ Also interested in logic puzzles and arts. Give me a problem to solve, and a design to optimise!
+- 💞️ Give me a problem to solve, and a design to optimise!
 - 📫 How to reach me: chrysanti.paschou@gmail.com
 - 👀 OPEN TO WORK.
 <!---
