@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @meangolden. I'm a mathematician, and a Communications engineeer.
-- 🌱 I’m currently experimenting with string art patterns in Python and C.
-- 💞️ Give me a problem to solve, and a design to optimise!
-- 📫 How to reach me: chrysanti.paschou@gmail.com
-- 👀 OPEN TO WORK from September '24 onwards 
-<!---
-meangolden/meangolden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @meangolden, a mathematician and communications engineer passionate about problem-solving and design optimisation.
+
+👩‍👧 Taking time off work to nurture the next generation.
+
+🎨 In my free time, I explore string art patterns.
+
+🔗 Check out my latest repository on rope weaving for creative upcycling ideas.
+
+👀 **OPEN TO WORK** from September '24 onwards.
+
+📧 Reach me at: chrysanti.paschou@gmail.com
