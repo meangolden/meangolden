@@ -1,6 +1,6 @@
 👋 Hi, I’m @meangolden, a mathematician and communications engineer passionate about problem-solving and design optimisation.
 
-👩‍👧 Taking time off work to nurture the next generation.
+👩‍👧 Taking time off work to nurture the next generation!
 
 🎨 In my free time, I explore string art patterns.
 
